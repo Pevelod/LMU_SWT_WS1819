@@ -2,7 +2,8 @@ package MI_SWT_HA01_A3;
 
 public class Cat extends Tier {
 	
-	
+	//test001
+	//test003
 	//protected String name;
 	protected int age;
 	protected String laut = "Miau";
