@@ -2,6 +2,8 @@ package MI_SWT_HA01_A3;
 
 public class Dog extends Tier {
 	
+	//test002
+	
 	//protected String name;
 	protected int age;
 	protected String laut = "Wuff";
